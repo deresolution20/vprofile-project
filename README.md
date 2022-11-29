@@ -93,10 +93,15 @@ The local MultiVM stack setup  will be created using nginx, tomcat, mariadb, mem
 
 <br />
 
-- setting up rabbitmq server ;
+- setting up rabbitmq and firewall settings on mq01 server ;
 
 <img width="871" alt="rabbitmq server" src="https://user-images.githubusercontent.com/85902399/204636527-f029e33c-8722-4afe-9bfc-1d3292294fb4.png">
 
 
 <br />
+<br />
+
+<img width="730" alt="rabbitfw" src="https://user-images.githubusercontent.com/85902399/204637289-15b77655-720b-461f-b6ca-ed96e7ae6eb7.png">
+
+
 <br />
