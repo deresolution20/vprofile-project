@@ -29,6 +29,8 @@ The local MultiVM stack setup  will be created using nginx, tomcat, mariadb, mem
 
 
 - edited the Vagrant.conf file to add the configuration setup steps for all servers <br/>
+<br/>
+
 
 <img width="651" alt="vagrant file setup" src="https://user-images.githubusercontent.com/85902399/204619140-89e2b3e7-70e9-4eeb-a087-4dd04f7e531f.png">
 
@@ -37,7 +39,9 @@ The local MultiVM stack setup  will be created using nginx, tomcat, mariadb, mem
 
 <br />
 <br />
-once completed, verify the servers are running.  
+- once completed, verify the servers are running; 
+
+<br/>
 
 
 <img width="479" alt="vagrant up" src="https://user-images.githubusercontent.com/85902399/204619178-64a12f49-5a5a-4924-87d6-1e8d1b99501f.png">
@@ -46,7 +50,7 @@ once completed, verify the servers are running.
 <br />
 <br />
 
-validation that the nodes can talk and hosts file are setup correctly
+- validation that the nodes can talk and hosts file are setup correctly;
 
 <img width="499" alt="ssh web01 validation" src="https://user-images.githubusercontent.com/85902399/204619322-2805069c-d53d-4bf1-9d39-d69b9a4886d9.png">
 
@@ -54,10 +58,11 @@ validation that the nodes can talk and hosts file are setup correctly
 
 <br />
 
-setting up Mariadb on db01 server 
+- setting up Mariadb on db01 server and firewall;
 
-<img width="581" alt="db setup" src="https://user-images.githubusercontent.com/85902399/204619425-433d6af3-03bb-4137-b8d9-55fc1f383fb9.png">
 
+
+<img width="734" alt="db setup" src="https://user-images.githubusercontent.com/85902399/204624525-ea7ff7f7-1598-44df-aa2f-f436c1b32559.png">
 
 
 
