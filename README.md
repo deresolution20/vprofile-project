@@ -113,3 +113,17 @@ The local MultiVM stack setup  will be created using nginx, tomcat, mariadb, mem
 
 
 <br />
+
+
+# Building tomcat server
+
+<br />
+<br />
+- setting up tomcat and firewall settings on app01 server ;
+
+<img width="868" alt="tomcat" src="https://user-images.githubusercontent.com/85902399/204645377-aab1f6cd-6a06-42c1-b6df-292713bb3a68.png">
+
+<br />
+<br />
+
+
