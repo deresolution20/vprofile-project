@@ -126,4 +126,65 @@ The local MultiVM stack setup  will be created using nginx, tomcat, mariadb, mem
 <br />
 <br />
 
+# Code build and deploy
 
+<br />
+<br />
+- deploying app to app01 server;
+
+<br />
+<br />
+<img width="876" alt="build code" src="https://user-images.githubusercontent.com/85902399/204649049-32050e2d-47b1-4339-8fb4-aaa5992f478a.png">
+
+
+# Building Nginx server
+
+<br />
+<br />
+- setting up nginx on web01 server ;
+
+<img width="779" alt="nginx" src="https://user-images.githubusercontent.com/85902399/204651540-46dd70f2-7e95-4a9f-b468-7df0f85af902.png">
+
+
+<br />
+<br />
+
+
+# Validating deployment
+
+<br />
+<br />
+- Nginx webserver login using localhost ip;
+<br />
+
+<img width="952" alt="nginx website validate" src="https://user-images.githubusercontent.com/85902399/204654789-894461fd-cf1b-46ce-9580-1d75fb193384.png">
+
+
+<br />
+<br />
+
+
+- db01 is working, since we can login;
+<br />
+
+
+<img width="953" alt="app validate login" src="https://user-images.githubusercontent.com/85902399/204654813-7ffc69ab-a5fe-44ce-8f77-9c92a5781ac3.png">
+
+
+<br />
+<br />
+
+- validating rabbitmq(mq01) is working;
+<br />
+
+<img width="701" alt="rabbit01" src="https://user-images.githubusercontent.com/85902399/204654830-e3027214-3cd1-492b-b3fe-1dc76950cf51.png">
+
+<br />
+<br />
+
+<img width="393" alt="rabbit02" src="https://user-images.githubusercontent.com/85902399/204654891-f5f52f36-8ad1-4e63-afa9-f3bffd95875f.png">
+
+
+
+<br />
+<br />
