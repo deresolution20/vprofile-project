@@ -39,6 +39,7 @@ The local MultiVM stack setup  will be created using nginx, tomcat, mariadb, mem
 
 <br />
 <br />
+
 - once completed, verify the servers are running; 
 
 <br/>
@@ -58,7 +59,9 @@ The local MultiVM stack setup  will be created using nginx, tomcat, mariadb, mem
 
 <br />
 
-- setting up Mariadb on db01 server and firewall;
+<h3>db01 server - Mariadb setup</h3>
+
+- setting up Mariadb and firewall settings on db01 server ;
 
 
 
@@ -66,5 +69,28 @@ The local MultiVM stack setup  will be created using nginx, tomcat, mariadb, mem
 
 
 
- 
 </p>
+
+<h4>mc01 server - Memcache server</h4>
+
+<br />
+<br />
+
+- setting up memcache and firewall settings on mc01 server ;
+
+
+<img width="766" alt="memcached" src="https://user-images.githubusercontent.com/85902399/204629821-a638014a-fab9-4ad9-a7a2-413ff135429b.png">
+<br />
+<br />
+
+- validating ip ports;
+
+
+<br />
+
+<img width="660" alt="mc validate port 11211" src="https://user-images.githubusercontent.com/85902399/204629911-2e3a1544-45a6-451e-a1fa-4de39ef45048.png">
+
+
+<br />
+
+
