@@ -27,7 +27,7 @@ The local MultiVM stack setup  will be created using nginx, tomcat, mariadb, mem
 
 <h2>Program walk-through:</h2>
 
-<p align="left">
+
 - edited the Vagrant.conf file to add the configuration setup steps for all servers <br/>
 
 <img width="651" alt="vagrant file setup" src="https://user-images.githubusercontent.com/85902399/204619140-89e2b3e7-70e9-4eeb-a087-4dd04f7e531f.png">
