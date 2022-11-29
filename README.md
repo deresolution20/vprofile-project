@@ -59,6 +59,8 @@ The local MultiVM stack setup  will be created using nginx, tomcat, mariadb, mem
 
 <br />
 
+# Building the backend 
+
 <h3>db01 server - Mariadb setup</h3>
 
 - setting up Mariadb and firewall settings on db01 server ;
@@ -71,7 +73,7 @@ The local MultiVM stack setup  will be created using nginx, tomcat, mariadb, mem
 
 </p>
 
-<h4>mc01 server - Memcache server</h4>
+<h3>mc01 server - Memcache server</h3>
 
 <br />
 <br />
@@ -92,6 +94,12 @@ The local MultiVM stack setup  will be created using nginx, tomcat, mariadb, mem
 
 
 <br />
+
+<h3>mq01 server - Rabbitmq server</h3>
+
+<br />
+<br />
+
 
 - setting up rabbitmq and firewall settings on mq01 server ;
 
